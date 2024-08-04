@@ -19,10 +19,10 @@
          - name: Set up Git
            run: |
              git config --global user.name '<sauwastika>'
-             git config --global user.email '<您的GitHub邮箱>'
+             git config --global user.email '<www@sauwastika.com>'
 
          - name: Add upstream remote
-           run: git remote add upstream <原始仓库的URL>
+           run: git remote add upstream <https://github.com/YueChan/Live.git>
 
          - name: Fetch upstream
            run: git fetch upstream
