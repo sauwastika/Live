@@ -20,7 +20,7 @@ jobs:
     - name: Set up Git
       run: |
         git config user.name "sauwastika"
-        git config user.email "www@sauwastika.com"
+        git config user.email "156944310+sauwastika@users.noreply.github.com"
 
     # Step 3: Add upstream repository and fetch updates
     - name: Add upstream repository
