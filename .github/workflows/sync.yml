@@ -8,6 +8,8 @@ on:
 jobs:
   sync:
     runs-on: ubuntu-latest
+    env:
+      NODE_VERSION: '20' # 显式指定 Node.js 版本
     steps:
     - name: Checkout the repo
       uses: actions/checkout@v3
