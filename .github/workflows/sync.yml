@@ -18,8 +18,8 @@
 
          - name: Set up Git
            run: |
-             git config --global user.name '<sauwastika>'
-             git config --global user.email '<www@sauwastika.com>'
+             git config --global user.name 'sauwastika'
+             git config --global user.email 'www@sauwastika.com'
 
          - name: Add upstream remote
            run: git remote add upstream <https://github.com/YueChan/Live.git>
