@@ -33,6 +33,7 @@ jobs:
     # Step 4: Push changes to your fork on GitHub
     - name: Push changes to fork
       run: |
+        git merge upstream/main --no-edit
         git push origin main
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
