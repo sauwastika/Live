@@ -13,7 +13,7 @@
          - name: Checkout
            uses: actions/checkout@v3
            with:
-             repository: <sauwastika>/<Live>
+             repository: sauwastika/Live
              ref: main
 
          - name: Set up Git
