@@ -3,12 +3,6 @@
 https://d3pxo1qcgzxtxs.cloudfront.net/10005/99951298/hls/playlist.m3u8?ads.xumo_channelId=99951298
 #EXTINF:-1 group-title="国际",CNA
 https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3u8
-#EXTINF:-1 group-title="国际",CNN  
-https://jmp2.uk/sam-GBBD8000016N.m3u8
-#EXTINF:-1 group-title="国际",Fox LiveNow
-https://jmp2.uk/sam-USBA300024TN.m3u8
-#EXTINF:-1 group-title="国际",CBC News
-https://dbrb49pjoymg4.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod_default_xumo-ams-aws/master.m3u8?ads.xumo_channelId=99991276
 #EXTINF:-1 group-title="国际",NBC News Now
 https://jmp2.uk/sam-GBBB1500004LG.m3u8
 #EXTINF:-1 group-title="国际",ABC News Live
@@ -25,46 +19,26 @@ https://bcovlive-a.akamaihd.net/re8d9f611ee4a490a9bb59e52db91414d/us-east-1/7345
 https://rt-glb.rttv.com/dvr/rtnews/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",Africa News
 https://euronews-africanews-english-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Al Jazeera
-http://live-hls-web-aje.getaj.net/AJE/01.m3u8
 #EXTINF:-1 group-title="国际",Arirang
 https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b3256000_sleng.m3u8
-#EXTINF:-1 group-title="国际",Love Nature
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="国际",Fashion TV
 http://91.247.68.229:8000/play/Fashion/index.m3u8
 #EXTINF:-1 group-title="国际",Kids TV
 https://jansonmedia-kidstv-1-us.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Wild Earth
-https://wildearth-plex.amagi.tv/masterR1080p.m3u8
-#EXTINF:-1 group-title="国际",Trace Sports
-https://lightning-tracesport-samsungau.amagi.tv/playlist1080p.m3u8
-#EXTINF:-1 group-title="国际",SportsGrid
-https://amg00315-sportsgrid-firetv.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",RT Documentary
 https://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
 #EXTINF:-1 group-title="国际",Taiwan Plus
 https://bcovlive-a.akamaihd.net/rce33d845cb9e42dfa302c7ac345f7858/ap-northeast-1/6282251407001/playlist.m3u8
-#EXTINF:-1 group-title="国际",ComedyDynamics
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-comedydynamics-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="国际",BBC Impossible
 https://bbc-impossible-1-ca.lg.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",BBC Earth
-https://d206rrc0yoxllg.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-staxtq3pp4n9p/115c93cf-88fa-4c4d-86c1-ca74ac6969d7/3.m3u8
-#EXTINF:-1 group-title="国际",History
-https://da8eq3kpws4wh.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-qwqfh4ecsmf30/7f1c6847-381e-477d-9bda-b62f74400ee0/3.m3u8
 #EXTINF:-1 group-title="国际",TED Conference
 https://tedconferences-ted-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Ted Talks 
 https://tedconferences-ted-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Mytime
 https://appletree-mytimeau-samsung.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",La La Life 
-https://amg02051-soulpublishing-amg02051c8-xiaomi-in-398.playouts.now.amagi.tv/playlist/amg02051-admecyltd-lalalifeenglish-xiaomiin/playlist.m3u8
 #EXTINF:-1 group-title="国际",MovieDome
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00771-kochfilmsgerman-moviedomeuk-xiaomi/playlist.m3u8
-#EXTINF:-1 group-title="国际",Tastemade 
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00047-tastemade-tmintleng-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="国际",New Movies
 https://newidco-newmovies-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",ION Plus
@@ -75,115 +49,93 @@ https://d4ybyqrhce41r.cloudfront.net/v1/master/3fec3e5cac39a52b2132f9c66c83dae04
 https://lovestoriestv-lovestoriestv-1-eu.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Travel XP
 https://travelxp-travelxp-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Museum TV
-https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg01492-secomsasmediart-museumtven-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="国际",Ondemand China
 https://newidco-ondemandchina-1-us.xiaomi.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="国际",Young Hollywood
 https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00143-younghollywoodl-younghollywood-xiaomi/playlist.m3u8
 #EXTINF:-1 group-title="国际",Food
 https://food-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Cartoon Network
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 group-title="国际",Rakuten Viki 
-https://newidco-rakutenviki-2-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Rakuten TV Shows 
-https://rakuten-tvshows-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Rakuten Comedy
-https://rakuten-comedymovies-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Rakuten Thriller
-https://rakuten-thriller-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Rakuten British Films
-https://rakuten-british-films-1-gb.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Global Fashion Channel
-https://gfcomnimedia-globalfashionchannel-1-eu.xiaomi.wurl.tv/playlist.m3u8
-#EXTINF:-1 group-title="国际",Crime Time
-https://bamca-crimetime-lg.amagi.tv/playlist.m3u8
-#EXTINF:-1 tvg-id="aktv/null-3" group-title=国际,鳳凰中文
+#EXTINF:-1 tvg-id="aktv/null-3" group-title="国际",鳳凰中文
 http://aktv.top/AKTV/live/aktv/null-3/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-4" group-title=国际,鳳凰資訊
+#EXTINF:-1 tvg-id="aktv/null-4" group-title="国际",鳳凰資訊
 http://aktv.top/AKTV/live/aktv/null-4/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-5" group-title=国际,鳳凰香港
+#EXTINF:-1 tvg-id="aktv/null-5" group-title="国际",鳳凰香港
 http://aktv.top/AKTV/live/aktv/null-5/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-12" group-title=国际,中天亞洲台
+#EXTINF:-1 tvg-id="aktv/null-12" group-title="国际",中天亞洲台
 http://aktv.top/AKTV/live/aktv/null-12/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-8" group-title=国际,中天新聞台
+#EXTINF:-1 tvg-id="aktv/null-8" group-title="国际",中天新聞台
 http://aktv.top/AKTV/live/aktv/null-8/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-10" group-title=国际,中視
+#EXTINF:-1 tvg-id="aktv/null-10" group-title="国际",中視
 http://aktv.top/AKTV/live/aktv/null-10/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/tvbs-1" group-title=国际,TVBS新聞台
+#EXTINF:-1 tvg-id="aktv/tvbs-1" group-title="国际",TVBS新聞台
 http://aktv.top/AKTV/live/aktv/tvbs-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-1" group-title=国际,無線新聞台
+#EXTINF:-1 tvg-id="aktv/null-1" group-title="国际",無線新聞台
 http://aktv.top/AKTV/live/aktv/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/null-1" group-title=国际,无线新闻台(北美)
+#EXTINF:-1 tvg-id="aktv2/null-1" group-title="国际",无线新闻台(北美)
 http://aktv.top/AKTV/live/aktv2/null-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/null-2" group-title=国际,無線衛星新聞台
+#EXTINF:-1 tvg-id="aktv3/null-2" group-title="国际",無線衛星新聞台
 http://aktv.top/AKTV/live/aktv3/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-9" group-title=国际,寰宇新聞台
+#EXTINF:-1 tvg-id="aktv/null-9" group-title="国际",寰宇新聞台
 http://aktv.top/AKTV/live/aktv/null-9/AKTV.m3u8
-#EXTINF:-1 tvg-id="NHK-HK" group-title="国际",NHK World-Japan
-https://live.hg16888.vip/mytvsuper/CNHK
-#EXTINF:-1 tvg-id="aktv/channel5hd" group-title=国际,Channel 5 HD
+#EXTINF:-1 tvg-id="NHK-HK" group-title="国际",NHK World
+http://aktv.top/AKTV/live/aktv3/nhkworldjapan/AKTV.m3u8
+#EXTINF:-1 tvg-id="aktv/channel5hd" group-title="国际",Channel 5 HD
 http://aktv.top/AKTV/live/aktv/channel5hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/channel8hd" group-title=国际,Channel 8 HD
+#EXTINF:-1 tvg-id="aktv/channel8hd" group-title="国际",Channel 8 HD
 http://aktv.top/AKTV/live/aktv/channel8hd/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/channeluhd" group-title=国际,Channel U HD
+#EXTINF:-1 tvg-id="aktv/channeluhd" group-title="国际",Channel U HD
 http://aktv.top/AKTV/live/aktv/channeluhd/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/popc" group-title=国际,PopC
+#EXTINF:-1 tvg-id="aktv/popc" group-title="国际",PopC
 http://aktv.top/AKTV/live/aktv/popc/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/tvbplus" group-title=国际,TVB Plus
+#EXTINF:-1 tvg-id="aktv/tvbplus" group-title="国际",TVB Plus
 http://aktv.top/AKTV/live/aktv/tvbplus/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/tvbs" group-title=国际,TVBS
+#EXTINF:-1 tvg-id="aktv/tvbs" group-title="国际",TVBS
 http://aktv.top/AKTV/live/aktv/tvbs/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/tvn" group-title=国际,tvN
+#EXTINF:-1 tvg-id="aktv/tvn" group-title="国际",tvN
 http://aktv.top/AKTV/live/aktv/tvn/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-15" group-title=国际,千禧經典台
+#EXTINF:-1 tvg-id="aktv/null-15" group-title="国际",千禧經典台
 http://aktv.top/AKTV/live/aktv/null-15/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/hk" group-title=国际,娛樂新聞台(HK)
+#EXTINF:-1 tvg-id="aktv/hk" group-title="国际",娛樂新聞台(HK)
 http://aktv.top/AKTV/live/aktv/hk/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-13" group-title=国际,日本全天新聞
-http://aktv.top/AKTV/live/aktv/null-13/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-19" group-title=国际,明珠剧集台(北美)
+#EXTINF:-1 tvg-id="aktv/null-19" group-title="国际",明珠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-19/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-2" group-title=国际,明珠台
+#EXTINF:-1 tvg-id="aktv/null-2" group-title="国际",明珠台
 http://aktv.top/AKTV/live/aktv/null-2/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/hk-1" group-title=国际,美亞電影台(HK)
+#EXTINF:-1 tvg-id="aktv/hk-1" group-title="国际",美亞電影台(HK)
 http://aktv.top/AKTV/live/aktv/hk-1/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-18" group-title=国际,翡翠剧集台(北美)
+#EXTINF:-1 tvg-id="aktv/null-18" group-title="国际",翡翠剧集台(北美)
 http://aktv.top/AKTV/live/aktv/null-18/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null" group-title=国际,翡翠台
+#EXTINF:-1 tvg-id="aktv/null" group-title="国际",翡翠台
 http://aktv.top/AKTV/live/aktv/null/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-17" group-title=国际,翡翠综合台(北美)
+#EXTINF:-1 tvg-id="aktv/null-17" group-title="国际",翡翠综合台(北美)
 http://aktv.top/AKTV/live/aktv/null-17/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-11" group-title=国际,華視
+#EXTINF:-1 tvg-id="aktv/null-11" group-title="国际",華視
 http://aktv.top/AKTV/live/aktv/null-11/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-6" group-title=国际,靖天電影台
+#EXTINF:-1 tvg-id="aktv/null-6" group-title="国际",靖天電影台
 http://aktv.top/AKTV/live/aktv/null-6/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-21" group-title=国际,黃金翡翠台
+#EXTINF:-1 tvg-id="aktv/null-21" group-title="国际",黃金翡翠台
 http://aktv.top/AKTV/live/aktv/null-21/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-22" group-title=国际,龍華日韓台
+#EXTINF:-1 tvg-id="aktv/null-22" group-title="国际",龍華日韓台
 http://aktv.top/AKTV/live/aktv/null-22/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-7" group-title=国际,龍華經典台
+#EXTINF:-1 tvg-id="aktv/null-7" group-title="国际",龍華經典台
 http://aktv.top/AKTV/live/aktv/null-7/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv/null-23" group-title=国际,龍華電影台
+#EXTINF:-1 tvg-id="aktv/null-23" group-title="国际",龍華電影台
 http://aktv.top/AKTV/live/aktv/null-23/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/viutv99" group-title=国际,viutv 99
+#EXTINF:-1 tvg-id="aktv2/viutv99" group-title="国际",ViuTV 99
 http://aktv.top/AKTV/live/aktv2/viutv99/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv2/viutv696" group-title=国际,viutv6 96
+#EXTINF:-1 tvg-id="aktv2/viutv696" group-title="国际",ViuTV 696
 http://aktv.top/AKTV/live/aktv2/viutv696/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/animaxhk" group-title=国际,Animax-HK
+#EXTINF:-1 tvg-id="aktv3/animaxhk" group-title="国际",Animax
 http://aktv.top/AKTV/live/aktv3/animaxhk/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/dw" group-title=国际,DW
+#EXTINF:-1 tvg-id="aktv3/dw" group-title="国际",DW
 http://aktv.top/AKTV/live/aktv3/dw/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/france24" group-title=国际,France 24
-http://aktv.top/AKTV/live/aktv3/france24/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/kix" group-title=国际,KIX
+#EXTINF:-1 tvg-id="aktv3/kix" group-title="国际",KIX
 http://aktv.top/AKTV/live/aktv3/kix/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/nickjr" group-title=国际,Nick Jr
+#EXTINF:-1 tvg-id="aktv3/nickjr" group-title="国际",Nick Jr
 http://aktv.top/AKTV/live/aktv3/nickjr/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/nickelodeon" group-title=国际,Nickelodeon
+#EXTINF:-1 tvg-id="aktv3/nickelodeon" group-title="国际",Nickelodeon
 http://aktv.top/AKTV/live/aktv3/nickelodeon/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/rockaction" group-title=国际,ROCK Action
+#EXTINF:-1 tvg-id="aktv3/rockaction" group-title="国际",ROCK Action
 http://aktv.top/AKTV/live/aktv3/rockaction/AKTV.m3u8
-#EXTINF:-1 tvg-id="aktv3/zoomoo" group-title=国际,ZooMoo
+#EXTINF:-1 tvg-id="aktv3/zoomoo" group-title="国际",ZooMoo
 http://aktv.top/AKTV/live/aktv3/zoomoo/AKTV.m3u8
